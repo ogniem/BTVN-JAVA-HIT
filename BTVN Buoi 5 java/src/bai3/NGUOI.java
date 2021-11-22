@@ -24,14 +24,17 @@ public class NGUOI {
     }
 
     public String getNgaySinh() {
+
         return NgaySinh;
     }
 
     public String getHoTen() {
+
         return HoTen;
     }
 
     public String getQueQuan() {
+
         return QueQuan;
     }
 }

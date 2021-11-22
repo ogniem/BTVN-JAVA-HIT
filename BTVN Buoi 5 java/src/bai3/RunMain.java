@@ -17,6 +17,7 @@ public class RunMain {
         lopHoc.setNgayMo(sc.nextLine());
         System.out.println("Nhập số sinh viên: ");
         lopHoc.setn(sc.nextInt());
+        sc.nextLine();
         System.out.println("Nhập giáo viên:  ");
         lopHoc.setGiaoVien(sc.nextLine());
 
@@ -26,6 +27,7 @@ public class RunMain {
             sv.Nhap();
             SinhViens.add(sv);
         }
+
         lopHoc.setSinhViens(SinhViens);
         int dem = 0;
         for (int i = 0; i < lopHoc.getn(); i++) {
