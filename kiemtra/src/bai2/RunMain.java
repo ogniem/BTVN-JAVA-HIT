@@ -2,6 +2,7 @@ package bai2;
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class RunMain {
@@ -10,6 +11,13 @@ public class RunMain {
     private static Scanner sc= new Scanner(System.in);
 
     public static void main(String[] args) {
+        System.out.println("+) Add book \n" +
+                "1) Edit book by id \n" +
+                "2) Delete book by id \n" +
+                "3) Sort books by name (ascending) \n" +
+                "4) Sort books by price (descending) \n" +
+                "5) Show all books \n" +
+                "\t\t+) Exit.\n " );
      Addbook();
 
     }

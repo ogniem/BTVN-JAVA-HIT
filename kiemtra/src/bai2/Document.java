@@ -60,4 +60,6 @@ public class Document {
     public void setPrice(Integer price) {
         this.price = price;
     }
+
+
 }

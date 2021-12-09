@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19a029d8-212d-496e-b60b-f175772c3c9a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/BTVN Buoi 5 java/out/production/BTVN Buoi 5 java/bai3/LOPHOC.class" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN Buoi 5 java/out/production/BTVN Buoi 5 java/bai3/LOPHOC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BTVN Buoi 5 java/out/production/BTVN Buoi 5 java/bai3/NGUOI.class" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN Buoi 5 java/out/production/BTVN Buoi 5 java/bai3/NGUOI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BTVN Buoi 5 java/out/production/BTVN Buoi 5 java/bai3/RunMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN Buoi 5 java/out/production/BTVN Buoi 5 java/bai3/RunMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BTVN Buoi 5 java/src/bai3/LOPHOC.java" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN Buoi 5 java/src/bai3/LOPHOC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BTVN Buoi 5 java/src/bai3/NGUOI.java" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN Buoi 5 java/src/bai3/NGUOI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BTVN Buoi 5 java/src/bai3/RunMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN Buoi 5 java/src/bai3/RunMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiemtra/out/production/kiemtra/bai1/RunMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/kiemtra/out/production/kiemtra/bai1/RunMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiemtra/src/bai1/RunMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/kiemtra/src/bai1/RunMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiemtra/src/bai2/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/kiemtra/src/bai2/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiemtra/src/bai2/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/kiemtra/src/bai2/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiemtra/src/bai2/RunMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/kiemtra/src/bai2/RunMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +109,8 @@
       <workItem from="1635344299165" duration="192000" />
       <workItem from="1635879555050" duration="85000" />
       <workItem from="1637586283540" duration="30000" />
+      <workItem from="1638640110423" duration="68000" />
+      <workItem from="1638814629681" duration="45000" />
     </task>
     <servers />
   </component>
