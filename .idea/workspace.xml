@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="19a029d8-212d-496e-b60b-f175772c3c9a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kiemtra/out/production/kiemtra/bai1/RunMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/kiemtra/out/production/kiemtra/bai1/RunMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kiemtra/src/bai1/RunMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/kiemtra/src/bai1/RunMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kiemtra/src/bai2/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/kiemtra/src/bai2/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kiemtra/src/bai2/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/kiemtra/src/bai2/Document.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kiemtra/src/bai2/RunMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/kiemtra/src/bai2/RunMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTVN_buoi7/out/production/BTVN_buoi7/bai1/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN_buoi7/out/production/BTVN_buoi7/bai1/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTVN_buoi7/src/bai1/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN_buoi7/src/bai1/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTVN_buoi7/src/bai3/RunMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN_buoi7/src/bai3/RunMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +109,10 @@
       <workItem from="1637586283540" duration="30000" />
       <workItem from="1638640110423" duration="68000" />
       <workItem from="1638814629681" duration="45000" />
+      <workItem from="1639246327646" duration="45000" />
+      <workItem from="1639561035425" duration="15000" />
+      <workItem from="1639561075310" duration="39000" />
+      <workItem from="1639561124229" duration="21000" />
     </task>
     <servers />
   </component>
